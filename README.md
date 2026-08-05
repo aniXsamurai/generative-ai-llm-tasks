@@ -43,19 +43,6 @@ This repository contains my implementations of **Generative AI & Large Language 
 
 ## 📂 Repository Structure
 
-```text
-📦 generative-ai-llm-tasks
-│
-├── Task1.ipynb
-├── Task2.ipynb
-├── Task3.ipynb
-├── Task4.ipynb
-├── Task5.ipynb
-├── Task6.ipynb
-├── Task7.ipynb
-└── README.md
-```
-
 ---
 
 ## 🛠️ Tech Stack
